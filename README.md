@@ -1,5 +1,4 @@
-# WRRT-DETR: Weather-Robust RT-DETR for Drone-View Object
-Detection in Adverse Weather
+# WRRT-DETR: Weather-Robust RT-DETR for Drone-View Object Detection in Adverse Weather
 The dataset associated with our paper is currently being finalized and will be made publicly available upon publication.
 
 🔧 Ongoing Updates
